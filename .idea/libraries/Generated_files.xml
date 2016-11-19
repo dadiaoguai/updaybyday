@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/notebooks/arithmetic&amp;datastructure/chapter11.js" />
+        <item url="file://$PROJECT_DIR$/common.js" />
+        <item url="file://$PROJECT_DIR$/notebooks/arithmetic&amp;datastructure/chapter3.js" />
+        <item url="file://$PROJECT_DIR$/notebooks/arithmetic&amp;datastructure/chapter4.js" />
+        <item url="file://$PROJECT_DIR$/notebooks/arithmetic&amp;datastructure/chapter10.js" />
+        <item url="file://$PROJECT_DIR$/notebooks/arithmetic&amp;datastructure/chapter1.js" />
+        <item url="file://$PROJECT_DIR$/notebooks/arithmetic&amp;datastructure/chapter6.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/a.js" />
+      <root url="file://$PROJECT_DIR$/a.js" />
+      <root url="file://$PROJECT_DIR$/b.js" />
+      <root url="file://$PROJECT_DIR$/littlecopy.js" />
+      <root url="file://$PROJECT_DIR$/inherit.js" />
+      <root url="file://$PROJECT_DIR$/notebooks/arithmetic&amp;datastructure/chapter11.js" />
+      <root url="file://$PROJECT_DIR$/common.js" />
+      <root url="file://$PROJECT_DIR$/notebooks/arithmetic&amp;datastructure/chapter3.js" />
+      <root url="file://$PROJECT_DIR$/notebooks/arithmetic&amp;datastructure/chapter4.js" />
+      <root url="file://$PROJECT_DIR$/notebooks/arithmetic&amp;datastructure/chapter10.js" />
+      <root url="file://$PROJECT_DIR$/notebooks/arithmetic&amp;datastructure/chapter1.js" />
+      <root url="file://$PROJECT_DIR$/notebooks/arithmetic&amp;datastructure/chapter6.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
