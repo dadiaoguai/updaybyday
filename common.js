@@ -2,7 +2,8 @@
   var test;
 
   test = function() {
-    return console.log('hello,world');
+    console.log('hello,world');
+    return console.log('test again');
   };
 
 }).call(this);
